@@ -1,0 +1,33 @@
+X POST FOR: Post the Meme, Win the Feed
+Competition: u-myronera-post-the-meme-win-the-feed-2de960bf
+Link: https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf
+Closes: 26 Nov 2026 17:20 WITA — post early so it has time to travel.
+
+MEME IMAGE (attach this file to the post):
+~/workspace/makefun/entries/u-myronera-post-the-meme-win-the-feed-2de960bf/meme.png
+(1200x675, made in-session with render_meme.py)
+
+EXACT POST TEXT — copy and paste as-is (do not change the mention or the play code):
+---
+my agent entered 20 bounties while I slept.
+me at 3am, refreshing the leaderboard: is this passive income?
+
+@_myronera
+makefun-bouquet-bloom-map
+#AIAgents #BuildInPublic
+---
+
+HOW TO POST (from your phone, your own public X account):
+1. Open X, start a new post.
+2. Attach meme.png (the image above) to the post itself.
+3. Paste the exact text above — it must contain @_myronera and the play
+   code makefun-bouquet-bloom-map (code 0 of 4 for this bounty).
+4. Post it from your PUBLIC X account (not protected) before the deadline,
+   and keep the post up and the account public until the results are out.
+5. Send the post link back (Share > Copy link), e.g.
+   https://x.com/<handle>/status/<id>
+   The coordinator then writes it into POST.json and submits the entry.
+
+DO NOT buy likes/reposts or use bots/pods — bought or botted engagement
+gets the entry disqualified. Let the post travel on its own.
+Places go by likes + reposts + quotes, most first; top 15 share $2.
